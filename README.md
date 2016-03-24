@@ -1,4 +1,5 @@
 Before anything: run `npm install` inside project directory
+
 If you do not have bower: `npm install bower -g`
 
 ## Build
